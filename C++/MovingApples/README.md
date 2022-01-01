@@ -22,5 +22,7 @@ Example 1:
 
 Explanation:
 
-    There are 2 baskets with first containing 1 apple & second containing 3 apples. If we shift one apple from the second container to the first container then both will have 2 apples. So only one apple was required to move. Hence the output is 1.
+    There are 2 baskets with first containing 1 apple & second containing 3 apples.
+    If we shift one apple from the second container to the first container then both will have 2 apples.
+    So only one apple was required to move. Hence the output is 1.
     
