@@ -14,6 +14,7 @@ Output Specifications:
     Return the minimum number of apples that must be moved so that all the baskets have the same number of apples.
 
 Example 1:
+
     input1: 2
     input2: (1, 3)
 
