@@ -41,10 +41,10 @@ SAMPLE INPUT 2:
     5
     13 22 96 17 26
 
-SAMPLE OUTPUT 1:
+SAMPLE OUTPUT 2:
 
-    9
+    3
 
 EXPLANATION:
 
-    For test case 1 the sum of the array is 27 & digit sum is 9.
+    For test case 2 the sum of the array is 174 & digit sum is 12, which has digit sum 3.
