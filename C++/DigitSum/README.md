@@ -1,4 +1,4 @@
-Digit Sum Of An Array
+**Digit Sum Of An Array**
 
 Today Ankush's maths professor decides to test his maths skill as Ankushis really good with maths. Ankush's professor decides to give him and array of numbers and ask him to find the digit sum of the array.
 
@@ -24,6 +24,7 @@ CONSTRAINTS:
 
 
 SAMPLE INPUT 1:
+
     1
     5
     3 2 9 7 6
@@ -37,6 +38,7 @@ EXPLANATION:
     For test case 1 the sum of the array is 27 & digit sum is 9.
 
 SAMPLE INPUT 2:
+
     1
     5
     13 22 96 17 26
