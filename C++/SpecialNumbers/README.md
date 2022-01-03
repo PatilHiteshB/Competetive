@@ -1,4 +1,4 @@
-Rearranging Digits in an Integer
+**Rearranging Digits in an Integer**
 
 You are given an array of positive integers, arr, of size arr_lenght. Your task is to find the number of special integers in arr.
 
