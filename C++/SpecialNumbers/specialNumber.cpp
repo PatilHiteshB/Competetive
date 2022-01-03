@@ -19,7 +19,7 @@ int main(){
         int num; cin >> num;
         count+= isSpecial(num);
     }
-
+    
     cout << count << endl;
     return 0;
 }
