@@ -6,20 +6,20 @@ It is given that an num is considered a special integer if it digits cannot be r
 
 Notes:
 
-    - 431 is a special integer, as no other combination of its digits would produce an integer that is larger than 431.
-    - 312 is NOT a special integer, as you could rearrange the digits as 321, which would be larger than 312.
-    - Any sinlge digit such as 5 is always a special integer.
+    431 is a special integer, as no other combination of its digits would produce an integer that is larger than 431.
+    312 is NOT a special integer, as you could rearrange the digits as 321, which would be larger than 312.
+    Any sinlge digit such as 5 is always a special integer.
 
 
 Input Format:
 
-    - The first line contains an integer, array_length, denoting the number of elements in arr.
-    - Each line i of the array_length subsequent lines contains an integer describing arr[i].
+    The first line contains an integer, array_length, denoting the number of elements in arr.
+    Each line i of the array_length subsequent lines contains an integer describing arr[i].
 
 Constraints:
 
-    - 1 <= array_length <= 10^5
-    - 1 <= arr[i] <= 10^5
+    1 <= array_length <= 10^5
+    1 <= arr[i] <= 10^5
 
 Sample Testcases:
 
