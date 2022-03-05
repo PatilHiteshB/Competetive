@@ -1,4 +1,5 @@
 **Problem**
+
 You have infinite cards for each number between  and  (inclusive of them). Your task is to select three integers such that after sorting them in ascending order, the difference between the adjacent number is less than or equal to two. Find the number of ways to choose three numbers and print them.
 
 Note: The order of numbers does not matter.
