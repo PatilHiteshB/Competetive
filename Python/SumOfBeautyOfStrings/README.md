@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1
