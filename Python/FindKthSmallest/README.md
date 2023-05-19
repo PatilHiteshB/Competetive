@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-given-n-ranges/1
