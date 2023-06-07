@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/least-prime-factor5216/1
