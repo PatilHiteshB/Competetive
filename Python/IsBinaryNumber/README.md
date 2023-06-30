@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1
