@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/get-min-at-pop/1
