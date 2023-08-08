@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/common-elements1132/1
