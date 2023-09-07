@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
