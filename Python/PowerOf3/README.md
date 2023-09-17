@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/check-a-integer-is-power-of-3-or-not3850/1
