@@ -1,0 +1,1 @@
+Problem Link : https://practice.geeksforgeeks.org/problems/binary-representation-of-next-number3648/1
