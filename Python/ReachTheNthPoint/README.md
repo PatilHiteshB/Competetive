@@ -1,0 +1,1 @@
+Problem Link : https://www.geeksforgeeks.org/problems/reach-the-nth-point5433/1
